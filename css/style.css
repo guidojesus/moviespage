@@ -1,0 +1,14 @@
+#logo{
+    height: 100px;
+    object-fit: contain;
+}
+
+.peliculas{
+    background-color: #262b36;
+}
+#estrenos p{ color: #3cb290;
+    
+} 
+.modal-header{
+    color: #3cb290;
+}
